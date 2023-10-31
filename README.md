@@ -1,4 +1,4 @@
-![dev]([https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif](https://t4.ftcdn.net/jpg/04/12/83/91/360_F_412839178_eBThjVy75lyoTMkjcaSZSgeaH91M9bse.jpg))
+![dev](https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif](https://t4.ftcdn.net/jpg/04/12/83/91/360_F_412839178_eBThjVy75lyoTMkjcaSZSgeaH91M9bse.jpg)
 
 # 💫 About Me:
    🔭 I’m currently working on Athulya<br><br>    🤝 I’m looking for help with Stackfile<br><br>    💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING<br><br>    📫 How to reach me pipin69@proton.me<br><br>    ⚡ Fun fact im noob ;)<br>
