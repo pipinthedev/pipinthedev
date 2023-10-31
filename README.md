@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" style="width: 300px; height: 100px;" alt="Banner">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" style="width: 1000px; height: 300px;" alt="Banner">
 </div>
 
 # 💫 About Me:
