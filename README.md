@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20Stackfiles%20;Managing%20500%20to%201500+%2B%20Files%20on%20various%20platforms;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25"
+<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20Stackfiles;500%20to%201500+%2B%20Files%20on%20various%20platforms;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25"
 </p>
 
 
