@@ -7,7 +7,21 @@
 # 💫 About Me:
    🔭 I’m currently working on Athulya<br><br>    🤝 I’m looking for help with Stackfile<br><br>    💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING<br><br>    📫 How to reach me pipin69@proton.me<br><br>    ⚡ Fun fact im noob ;)<br>
 
+## Profile Views
 
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=pipinthedev&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PfuQxWfP) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praneshpandi) 
 
