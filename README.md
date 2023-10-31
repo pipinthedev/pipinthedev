@@ -1,6 +1,3 @@
-<h1 style="color: gold;">Pranesh The Developer</h1>
-
-
 # 💫 About Me:
    🔭 I’m currently working on Athulya<br><br>    🤝 I’m looking for help with Stackfile<br><br>    💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING<br><br>    📫 How to reach me pipin69@proton.me<br><br>    ⚡ Fun fact im noob ;)<br>
 
