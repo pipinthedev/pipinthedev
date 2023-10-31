@@ -1,17 +1,5 @@
-<h1 style="font-size: 36px; text-align: center; background: linear-gradient(45deg, #FFD700, #FFA500, #FFD700); -webkit-background-clip: text; background-clip: text; color: transparent; animation: shine 2s infinite linear;">
-  Pranesh The Developer
-</h1>
+<h1 style="color: gold;">Pranesh The Developer</h1>
 
-<style>
-@keyframes shine {
-  0% {
-    background-position: 200% center;
-  }
-  100% {
-    background-position: -200% center;
-  }
-}
-</style>
 
 # 💫 About Me:
    🔭 I’m currently working on Athulya<br><br>    🤝 I’m looking for help with Stackfile<br><br>    💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING<br><br>    📫 How to reach me pipin69@proton.me<br><br>    ⚡ Fun fact im noob ;)<br>
