@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=pipinthedev&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/pipinthedev"> <img src="https://komarev.com/ghpvc/?username=pipinthedev&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
