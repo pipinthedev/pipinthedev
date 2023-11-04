@@ -4,8 +4,20 @@
 </p>
 
 
-# 💫 About Me: 
-   🔭 I’m currently working on Athulya<br><br>    🤝 I’m looking for help with Stackfile<br><br>    💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING<br><br>    📫 How to reach me pipin69@proton.me<br><br>    ⚡ Fun fact im noob ;)<br>
+
+  <h2>💫 About Me:</h2>
+  <p align="center">
+  <br>
+  🔭 I’m currently working on Athulya
+  <br><br>
+  🤝 I’m looking for help with Stackfile
+  <br><br>
+  💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING
+  <br><br>
+  📫 How to reach me pipin69@proton.me
+  <br><br>
+  ⚡ Fun fact: I'm a noob ;)
+</p>
 
 ## Profile Views
 
