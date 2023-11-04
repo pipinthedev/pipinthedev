@@ -69,10 +69,9 @@
 
 <p align="center">
   <h3>😂 Random Dev Meme</h3>
-  <img src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="Random Dev Meme">
+  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme">
 </p>
 
----
 [![](https://visitcount.itsvg.in/api?id=pipinthedev&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
