@@ -5,18 +5,19 @@
 
 
 
+
   <h2>💫 About Me:</h2>
   <p align="center">
   <br>
-  🔭 I’m currently working on Athulya
+  <strong>🔭 I’m currently working on Athulya</strong>
   <br><br>
-  🤝 I’m looking for help with Stackfile
+  <strong>🤝 I’m looking for help with Stackfile</strong>
   <br><br>
-  💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING
+  <strong>💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING</strong>
   <br><br>
-  📫 How to reach me pipin69@proton.me
+  <strong>📫 How to reach me pipin69@proton.me</strong>
   <br><br>
-  ⚡ Fun fact: I'm a noob ;)
+  <strong>⚡ Fun fact: I'm a noob ;)</strong>
 </p>
 
 ## Profile Views
