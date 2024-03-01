@@ -9,7 +9,7 @@
   <h2>💫 About Me:</h2>
   <p align="center">
   <br>
-  <strong>🔭 I’m currently working on Athulya</strong>
+  <strong>🔭 I’m currently working on Projects</strong>
   <br><br>
   <strong>🤝 I’m looking for help with Stackfile</strong>
   <br><br>
