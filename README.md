@@ -35,7 +35,7 @@
     </tr>
   </table>
 
-  <center>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PfuQxWfP) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praneshpandi) 
 
@@ -74,4 +74,4 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=pipinthedev&icon=0&color=2)](https://visitcount.itsvg.in)
-</center>
+
