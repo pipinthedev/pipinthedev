@@ -9,15 +9,13 @@
   <h2>💫 About Me:</h2>
   <p align="center">
   <br>
-  <strong>🔭 I’m currently working on Projects</strong>
+  <strong>🔭 I’m currently working on sellify</strong>
   <br><br>
-  <strong>🤝 I’m looking for help with Stackfile</strong>
+  <strong>🤝 Looking to colab with your projects!.</strong>
   <br><br>
-  <strong>💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING</strong>
+  <strong>💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING / REACT / DOCKER / NODE JS / MYSQL / TAILWIND / DISCORDJS / TELETHON</strong>
   <br><br>
-  <strong>📫 How to reach me pipin69@proton.me</strong>
-  <br><br>
-  <strong>⚡ Fun fact: I'm a noob ;)</strong>
+  <strong>📫 How to reach me contact@pipin.dev</strong>
 </p>
 
 ## Profile Views
