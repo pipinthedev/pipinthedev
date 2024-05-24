@@ -66,10 +66,5 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=pipinthedev&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
 
-<p align="center">
-  <h3>😂 Random Dev Meme</h3>
-  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme">
-</p>
-
 [![](https://visitcount.itsvg.in/api?id=pipinthedev&icon=0&color=2)](https://visitcount.itsvg.in)
 
