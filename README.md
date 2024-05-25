@@ -56,6 +56,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<center>
 <p align="center">
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
@@ -65,6 +66,7 @@
   <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=pipinthedev&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
+</center>
 
 [![](https://visitcount.itsvg.in/api?id=pipinthedev&icon=0&color=2)](https://visitcount.itsvg.in)
 
