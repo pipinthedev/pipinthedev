@@ -51,13 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipinthedev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
-<center>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-<p align="center">
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
-</p>
-</center>
+![](https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=radical&no-frame=false&no-bg=false&margin-w=3)
