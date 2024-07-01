@@ -9,9 +9,9 @@
   <h2>💫 About Me:</h2>
   <p align="center">
   <br>
-  <strong>🔭 I’m currently working on sellify</strong>
+  <strong>🔭 I’m currently working on sellcart.io</strong>
   <br><br>
-  <strong>🤝 Looking to colab with your projects!.</strong>
+  <strong>🤝 Looking to collab with your projects!.</strong>
   <br><br>
   <strong>💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING / REACT / DOCKER / NODE JS / MYSQL / TAILWIND / DISCORDJS / TELETHON</strong>
   <br><br>
