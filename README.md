@@ -15,7 +15,7 @@
   <br><br>
   <strong>💬 Ask me about PHP / LARAVEL / HTML / CSS / BLOCKCHAIN / OPENCART / WHMCS / PTERODACTYL / VPS / PROXY / NETWORKING / REACT / DOCKER / NODE JS / MYSQL / TAILWIND / DISCORDJS / TELETHON</strong>
   <br><br>
-  <strong>📫 How to reach me contact@pipin.dev</strong>
+  <strong>📫 How to reach me admin@pipin.dev</strong>
 </p>
 
 ## Profile Views
@@ -23,7 +23,6 @@
 
   <table align="center">
     <tr>
-      <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
