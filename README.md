@@ -30,23 +30,23 @@
     </tr>
   </table>
   
-<section id="stacks">
-  <div style="border: 2px solid #fff; padding: 20px; border-radius: 12px; max-width: 800px; margin: auto; text-align: center;">
-    
-    <h2>🌐 Frontend</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,jquery,vite" alt="Frontend Stack" />
+<h2 id="stacks" align="center">💻 Tech Stack</h2>
 
-    <h2>🗄️ Backend</h2>
-    <a href="https://skillicons.dev" target="_blank" rel="noopener">
-      <img src="https://skillicons.dev/icons?i=nodejs,npm,php,ts" alt="Backend Stack" />
-    </a>
+<h3 align="center">🌐 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,jquery,vite" />
+</p>
 
-    <h2>🗃️ Database</h2>
-    <a href="https://skillicons.dev" target="_blank" rel="noopener">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Database Stack" />
-    </a>
-  </div>
-</section>
+<h3 align="center">🗄️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,php,ts" />
+</p>
+
+<h3 align="center">🗃️ Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
+
 
 
 # 📊 GitHub Stats:
