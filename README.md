@@ -27,18 +27,23 @@
 <h2 id="contact" align="center">Contact</h2>
 
 <p align="center">
-  <a href="https://discord.com/users/1088872361979281550" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/uhq69" target="_blank">
-    <img src="https://cdn0.iconfinder.com/data/icons/tuts/256/telegram.png" alt="Telegram" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:admin@pipin.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
-  </a>
+  <span style="margin: 0 10px;">
+    <a href="https://discord.com/users/1088872361979281550" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="48" height="48" />
+    </a>
+  </span>
+  <span style="margin: 0 10px;">
+    <a href="https://t.me/uhq69" target="_blank">
+      <img src="https://cdn0.iconfinder.com/data/icons/tuts/256/telegram.png" alt="Telegram" width="48" height="48" />
+    </a>
+  </span>
+  <span style="margin: 0 10px;">
+    <a href="mailto:admin@pipin.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
+    </a>
+  </span>
 </p>
+
 
 
 
