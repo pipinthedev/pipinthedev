@@ -4,7 +4,6 @@
 </p>
 
 <h2 align="center" id="about">About Me</h2>
-
 <p align="center">
   Collaborating on creative and high-impact tech projects
 </p>
@@ -19,6 +18,7 @@
   <a href="mailto:admin@pipin.dev">admin@pipin.dev</a>
 </p>
 
+<h2 align="center" id="about">Quick Scroll</h2>
 <div align="center">
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
@@ -27,9 +27,9 @@
 <span>[<kbd> <br> Stats <br> </kbd>](#stats)</span>
 <span>[<kbd> <br> Trophies <br> </kbd>](#trophies)</span>
 <span>[<kbd> <br> Profile Views <br> </kbd>](#profile)</span>
-  
-<h2 id="stacks" align="center">Tech Stack I Work With</h2>
 
+</div>
+<h2 id="stacks" align="center">Tech Stack I Work With</h2>
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,jquery,vite,materialui" />
