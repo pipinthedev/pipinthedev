@@ -29,20 +29,25 @@
       </td>
     </tr>
   </table>
-<p align="center">
-### 🌐 Frontend 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,jquery,vite" />
+  
+<section id="stacks">
+  <div style="border: 2px solid #fff; padding: 20px; border-radius: 12px; max-width: 800px; margin: auto; text-align: center;">
+    
+    <h2>🌐 Frontend</h2>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,jquery,vite" alt="Frontend Stack" />
 
-### 🗄️ Backend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,php,ts" />
-</a>
+    <h2>🗄️ Backend</h2>
+    <a href="https://skillicons.dev" target="_blank" rel="noopener">
+      <img src="https://skillicons.dev/icons?i=nodejs,npm,php,ts" alt="Backend Stack" />
+    </a>
 
-### 🗄️ Database
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
-</a>
-</p>
+    <h2>🗃️ Database</h2>
+    <a href="https://skillicons.dev" target="_blank" rel="noopener">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Database Stack" />
+    </a>
+  </div>
+</section>
+
 
 # 📊 GitHub Stats:
 <p align="center">
