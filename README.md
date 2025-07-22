@@ -32,22 +32,30 @@
   
 <h2 id="stacks" align="center">💻 Tech Stack</h2>
 
-<h3 align="center">🌐 Frontend</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,jquery,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,bootstrap,redux,jquery,vite" />
 </p>
 
-<h3 align="center">🗄️ Backend</h3>
+<h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,php,ts" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,ts" />
 </p>
 
-<h3 align="center">🗃️ Database</h3>
+<h3 align="center">🗃Database</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,notion,linux,figma" />
+</p>
 
+<h3 align="center">Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,replit" />
+</p>
 
 # 📊 GitHub Stats:
 <p align="center">
