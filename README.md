@@ -14,27 +14,12 @@
   <strong>📫 Reach Me:</strong><br>
   <a href="mailto:admin@pipin.dev">admin@pipin.dev</a>
 </p>
-
-
-## Profile Views
-
-
-  <table align="center">
-    <tr>
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/pipinthedev"> <img src="https://komarev.com/ghpvc/?username=pipinthedev&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
   
 <h2 id="stacks" align="center">💻 Tech Stack</h2>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,jquery,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,jquery,vite,materialui" />
 </p>
 
 <h3 align="center">Backend</h3>
@@ -42,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,ts" />
 </p>
 
-<h3 align="center">🗃Database</h3>
+<h3 align="center">Database</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
@@ -74,3 +59,18 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=radical&no-frame=false&no-bg=false&margin-w=3"
 </p>
+
+
+## Profile Views
+
+
+  <table align="center">
+    <tr>
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/pipinthedev"> <img src="https://komarev.com/ghpvc/?username=pipinthedev&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
