@@ -25,17 +25,21 @@
 </div>
 
 <h2 id="contact" align="center">Contact</h2>
+
 <p align="center">
   <a href="https://discord.com/users/1088872361979281550" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="48" height="48" />
   </a>
-<a href="https://t.me/uhq69" target="_blank">
-    <img src="https://cdn.pipin.dev/tg.png" alt="Telegram" width="100" height="100" />
+  &nbsp;&nbsp;
+  <a href="https://t.me/uhq69" target="_blank">
+    <img src="https://cdn.pipin.dev/tg.png" alt="Telegram" width="48" height="48" />
   </a>
- <a href="mailto:admin@pipin.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  &nbsp;&nbsp;
+  <a href="mailto:admin@pipin.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
   </a>
 </p>
+
 
 
 <h2 id="stacks" align="center">Tech Stack I Work With</h2>
