@@ -3,16 +3,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Anton+SC+&duration=4000&pause=700&color=F7AE18&center=true&vCenter=true&random=false&width=435&lines=Full+stack+web+dev+from+india;Developed+More+than+50%2B;Robust+application;Looking+forward+to+collab;Coding+Makes+me+feel;Better...;Owner+of+sellcart.io+%F0%9F%92%8E;Thanks+for+checking+my+profile+%F0%9F%92%93;Make+sure+to+follow."
 </p>
 
-
-
-<h2 align="center" id="about">💫 About Me</h2>
+<h2 align="center" id="about">About Me</h2>
 
 <p align="center">
-  <strong>Collaborating on creative and high-impact tech projects</strong><br><br>
+  Collaborating on creative and high-impact tech projects
+</p>
 
+<p align="center">
   <strong>Tech Stack Expertise:</strong><br>
-  Node.js • React.js • Next.js • PHP • Laravel • MySQL • Tailwind CSS • MUI • HTML • CSS • OpenCart • WHMCS • Docker • VPS • Pterodactyl • Proxy Systems • Networking • Discord.js • Telethon • Blockchain<br><br>
+  Node.js • React.js • Next.js • PHP • Laravel • MySQL • Tailwind CSS • MUI • HTML • CSS • OpenCart • WHMCS • Docker • VPS • Pterodactyl • Proxy Systems • Networking • Discord.js • Telethon • Blockchain
+</p>
 
+<p align="center">
   <strong>Contact:</strong><br>
   <a href="mailto:admin@pipin.dev">admin@pipin.dev</a>
 </p>
