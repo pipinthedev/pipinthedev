@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 <a href="https://t.me/uhq69" target="_blank">
-    <img src="https://cdn.pipin.dev/telegram7584-removebg-preview.png" alt="Telegram" width="48" height="48" />
+    <img src="https://cdn.pipin.dev/tg.png" alt="Telegram" width="48" height="48" />
   </a>
  <a href="mailto:admin@pipin.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
