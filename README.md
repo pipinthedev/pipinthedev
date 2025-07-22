@@ -72,7 +72,7 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,replit" />
 </p>
 
-<h3 align="center" id="stats">Github Stats</h3>
+<h2 align="center" id="stats">Github Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pipinthedev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
