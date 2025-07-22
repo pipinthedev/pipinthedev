@@ -29,11 +29,11 @@
   <a href="https://discord.com/users/1088872361979281550" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
-   <a href="https://t.me/uhq69" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="Discord" />
+<a href="https://t.me/uhq69" target="_blank">
+    <img src="https://cdn.pipin.dev/telegram7584-removebg-preview.png" alt="Telegram" width="48" height="48" />
   </a>
  <a href="mailto:admin@pipin.dev" target="_blank">
-    <img src="https://cdn.pipin.dev/telegram7584-removebg-preview.png" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
