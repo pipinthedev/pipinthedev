@@ -32,7 +32,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/uhq69" target="_blank">
-    <img src="https://cdn.pipin.dev/tg.png" alt="Telegram" width="48" height="48" />
+    <img src="https://cdn0.iconfinder.com/data/icons/tuts/256/telegram.png" alt="Telegram" width="48" height="48" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:admin@pipin.dev" target="_blank">
