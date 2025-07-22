@@ -13,11 +13,6 @@
   Node.js • React.js • Next.js • PHP • Laravel • MySQL • Tailwind CSS • MUI • HTML • CSS • OpenCart • WHMCS • Docker • VPS • Pterodactyl • Proxy Systems • Networking • Discord.js • Telethon • Blockchain
 </p>
 
-<p align="center">
-  <strong>Contact:</strong><br>
-  <a href="mailto:admin@pipin.dev">admin@pipin.dev</a>
-</p>
-
 <h2 align="center" id="about">Quick Scroll</h2>
 <div align="center">
 
@@ -27,8 +22,22 @@
 <span>[<kbd> <br> Stats <br> </kbd>](#stats)</span>
 <span>[<kbd> <br> Trophies <br> </kbd>](#trophies)</span>
 <span>[<kbd> <br> Profile Views <br> </kbd>](#profile)</span>
-
 </div>
+
+<h2 id="contact" align="center">Contact</h2>
+<p align="center">
+  <a href="https://discord.com/users/1088872361979281550" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+   <a href="https://t.me/uhq69" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" alt="Discord" />
+  </a>
+ <a href="mailto:admin@pipin.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
+
+
 <h2 id="stacks" align="center">Tech Stack I Work With</h2>
 <h3 align="center">Frontend</h3>
 <p align="center">
