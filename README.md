@@ -5,17 +5,28 @@
 
 
 
+<h2 align="center" id="about">💫 About Me</h2>
 
-<h2>💫 About Me</h2>
 <p align="center">
-  <strong>🤝 Open to collaborations on innovative web & tech projects</strong><br><br>
-  <strong>Ask Me About :</strong><br>
+  <strong>Collaborating on creative and high-impact tech projects</strong><br><br>
+
+  <strong>Tech Stack Expertise:</strong><br>
   Node.js • React.js • Next.js • PHP • Laravel • MySQL • Tailwind CSS • MUI • HTML • CSS • OpenCart • WHMCS • Docker • VPS • Pterodactyl • Proxy Systems • Networking • Discord.js • Telethon • Blockchain<br><br>
-  <strong>📫 Reach Me:</strong><br>
+
+  <strong>Contact:</strong><br>
   <a href="mailto:admin@pipin.dev">admin@pipin.dev</a>
 </p>
+
+<div align="center">
+
+<span>[<kbd> <br> About <br> </kbd>](#about)</span>
+<span>[<kbd> <br> Contact <br> </kbd>](#contact)</span>
+<span>[<kbd> <br> Skills <br> </kbd>](#stacks)</span>
+<span>[<kbd> <br> Stats <br> </kbd>](#stats)</span>
+<span>[<kbd> <br> Trophies <br> </kbd>](#trophies)</span>
+<span>[<kbd> <br> Profile Views <br> </kbd>](#profile)</span>
   
-<h2 id="stacks" align="center">💻 Tech Stack</h2>
+<h2 id="stacks" align="center">Tech Stack I Work With</h2>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
@@ -42,7 +53,8 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,replit" />
 </p>
 
-# 📊 GitHub Stats:
+<h3 align="center" id="stats">Github Stats</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pipinthedev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
@@ -55,15 +67,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipinthedev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
-## 🏆 GitHub Trophies
+<h3 align="center" id="trophies">GitHub Trophies</h3>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=radical&no-frame=false&no-bg=false&margin-w=3"
 </p>
 
 
-## Profile Views
-
-
+<h3 align="center" id="profile">Profile Views</h3>
   <table align="center">
     <tr>
       <th>Total Count</th>
