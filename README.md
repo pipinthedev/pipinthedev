@@ -90,7 +90,7 @@
 <h3 align="center" id="trophies">GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=radical&no-frame=false&no-bg=false&margin-w=3"
+  <img src="https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=midnight-purple&no-frame=true&no-bg=false&margin-w=3"
 </p>
 
 
@@ -101,7 +101,7 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/pipinthedev"> <img src="https://komarev.com/ghpvc/?username=pipinthedev&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/pipinthedev"> <img src="https://komarev.com/ghpvc/?username=pipinthedev&style=for-the-badge&color=blueviolet"> </a>
       </td>
     </tr>
   </table>
