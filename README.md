@@ -58,15 +58,15 @@
 <h3 align="center" id="stats">Github Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pipinthedev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=pipinthedev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pipinthedev&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pipinthedev&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipinthedev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipinthedev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 <h3 align="center" id="trophies">GitHub Trophies</h3>
