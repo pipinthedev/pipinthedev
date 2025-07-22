@@ -90,7 +90,7 @@
 <h3 align="center" id="trophies">GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=3"
+  <img src="https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=algolia&no-frame=false&no-bg=false&margin-w=3"
 </p>
 
 
